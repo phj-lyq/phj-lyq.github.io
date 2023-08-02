@@ -1,0 +1,16 @@
+//照片信息模板，二级目录，即照片有分类
+//符号#为分隔符，正文填写中请勿出现该符号
+TITLE#庞豪杰&刘玉清#且听风吟，静待花开
+//背景大照片，用于循环播放，建议4张左右
+BACK#back/back_1.jpg#back/back_2.jpg#back/back_3.jpg#back/back_4.jpg
+//用于显示在网页正中间的大字
+MID#婚纱照
+//第一部分，可无限添加
+//PART骑行#骑行#回首向来萧瑟处，归去，也无风雨也无晴
+//0.jpg#Test Title#Test Description 测试描述
+//1.jpg#测试标题#我也不知道该写点啥
+//PART其它#其它#随手拍
+//0.jpg#Test Title#Test Description 测试描述
+//1.jpg#Test Title#
+//PARTroot#银杏#金色的秋天
+//IMG_9600.jpg#银杏#一叶知秋
